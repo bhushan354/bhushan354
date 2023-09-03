@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Bhushan</h1>
 
 # ⚜ About Me:
-- I'm Bhushan, a passionate developer with an insatiable curiosity for all things tech.
+- I'm Bhushan, a dedicated developer driven by an unquenchable curiosity for all things in tech.
 - My journey in the world of programming started with a simple "Hello, World!" and has evolved into a deep love for crafting elegant solutions to complex problems.
 - Whether it's web development, machine learning, or creating quirky hacks, I enjoy exploring diverse domains and expanding my skill set.
 
