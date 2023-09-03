@@ -5,7 +5,7 @@
 - I have strong passion for problem-solving and a commitment to staying at the forefront of technological advancements .
 
   <p align="center"> 
-  Visitor's Count<br>
+  Visitor's Count :<br>
   <img src="https://profile-counter.glitch.me/bhushan354/count.svg" />
 </p>
 
