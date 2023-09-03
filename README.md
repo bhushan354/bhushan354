@@ -6,7 +6,7 @@
 
   <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/chiedozie013/count.svg" />
+  <img src="https://profile-counter.glitch.me/bhushan354/count.svg" />
 </p>
 
 ### 📁 All of my projects are available at [Personal Portfolio](#)
