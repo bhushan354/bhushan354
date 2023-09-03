@@ -4,6 +4,10 @@
 - I'm Bhushan, a dedicated developer driven by an unquenchable curiosity for all things in tech.
 - I have strong passion for problem-solving and a commitment to staying at the forefront of technological advancements .
 
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/chiedozie013/count.svg" />
+</p>
 
 ### 📁 All of my projects are available at [Personal Portfolio](#)
 
@@ -22,7 +26,5 @@ Here is the list of technologies that I enjoy working with:<br/><br/>
 Feel free to reach out if you have any collaboration ideas or interesting projects in mind. Let's work together to create something great!
 
 # ✨ Acknowledgments:
-I appreciate you taking the time to explore my GitHub profile. I hope you found something interesting, inspiring, or useful during your visit. Feel free to **STAR** any repositories you find intriguing and **SHARE** them with others who might benefit from them.
+Thank you for visiting my GitHub profile. If you found something interesting or useful, please consider starring and sharing my repositories.
 
-# 💫 Visitor count:
-[![](https://visitcount.itsvg.in/api?id=bhushan354&icon=6&color=5)](https://visitcount.itsvg.in)
