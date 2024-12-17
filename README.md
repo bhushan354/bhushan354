@@ -23,9 +23,6 @@ Here is the list of technologies that I enjoy working with:<br/><br/>
  <a href= "https://cloud.layer5.io/user/25c2871e-8614-4181-89d7-9711da003ab6?tab=badges&badge=hacktoberfest-24-contributor" >
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2024/layer5-hacktoberfest-badge-2024.png" alt = "Hacktoberfest '24 Contributor" />
  </a >
- <a href= "https://cloud.layer5.io/user/25c2871e-8614-4181-89d7-9711da003ab6?tab=badges&badge=first-design" >
-    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
-  </a >
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bhushan354&theme=vue-dark&hide_border=true&include_all_commits=true)<br/>
